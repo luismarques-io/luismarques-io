@@ -1,7 +1,5 @@
 Tech / Entrepreneurship
 
-Co-Founder @ http://gametrade.pt & http://brainanswer.pt
-
 Interested in MeteorJS, Vue.js, React and Angular
 
 LinkedIn: www.linkedin.com/in/luismarques-io
