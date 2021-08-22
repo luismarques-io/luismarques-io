@@ -3,6 +3,7 @@ Tech / Entrepreneurship
 Interested in MeteorJS, Vue.js, React and Angular
 
 Website: www.luismarques.io
+
 LinkedIn: www.linkedin.com/in/luismarques-io
 
 <!--
