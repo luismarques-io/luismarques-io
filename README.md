@@ -1,6 +1,6 @@
 Tech / Entrepreneurship
 
-Interested in MeteorJS, Vue.js, React and Angular
+Interested in MeteorJS, Vue.js, React
 
 <!--
 - 👋 Hi, I’m @m-arques
