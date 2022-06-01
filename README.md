@@ -7,9 +7,10 @@
 
 <p align="center">
   <a href="https://www.luismarques.io/" target="_blank" rel="noreferrer">
-    <img width="1100" alt="Luís Marques banner" src="https://user-images.githubusercontent.com/2077818/171486133-f4f60bd4-2922-40c8-8f0d-70a0d1095a7b.png" >
+    <img width="1100" alt="Luís Marques banner" src="https://user-images.githubusercontent.com/2077818/171486133-f4f60bd4-2922-40c8-8f0d-70a0d1095a7b.png" />
   </a>
 </p>
+
 
 <h1 align="center">I build things for the web</h2>
 
@@ -17,24 +18,43 @@
 I'm a software developer specializing in building and designing exceptional digital experiences.
 </> 
   
+<p align="center">
+  <a href="https://www.luismarques.io/"><img src="https://user-images.githubusercontent.com/2077818/171491178-bc36792b-e926-436f-887e-4d69c4063f73.svg" alt="Luís Marques | Website" height="32px"/></a>
+  &ensp;&ensp;
+  <a href="https://www.linkedin.com/in/luismarques-io/"><img src="https://user-images.githubusercontent.com/2077818/171490544-b58bc690-673f-46cc-96cf-f52b74627cc3.svg" alt="Luís Marques | LinkedIn" height="32px" margin="0 10px"/></a>
+  &ensp;&ensp;
+  <a href="https://www.luismarques.io/"><img src="https://user-images.githubusercontent.com/2077818/171491433-d6af3929-92b4-4d94-855b-2a9eb0e6a714.svg" alt="Luís Marques | Website" height="32px"/></a>
+</p>
+
+
+
+<h2>Languages</h2>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/PUG-a86454?style=for-the-badge&logo=pug&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Less-1d365d?style=for-the-badge&logo=less&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<h2>Frameworks</h2>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
+
+<h2>Tools</h2>
+<p>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
 <br/><br/>
 
-  
-<h3 align="center">Connect with me</h3>
-
-<p align="center">
-  <a href="https://www.luismarques.io/">
-    <img src="https://user-images.githubusercontent.com/2077818/171491178-bc36792b-e926-436f-887e-4d69c4063f73.svg" alt="Luís Marques | Website" height="32px"/>
-  </a>
-  &ensp;&ensp;
-  <a href="https://www.linkedin.com/in/luismarques-io/">
-    <img src="https://user-images.githubusercontent.com/2077818/171490544-b58bc690-673f-46cc-96cf-f52b74627cc3.svg" alt="Luís Marques | LinkedIn" height="32px" margin="0 10px"/>
-  </a>
-  &ensp;&ensp;
-  <a href="https://www.luismarques.io/">
-    <img src="https://user-images.githubusercontent.com/2077818/171491433-d6af3929-92b4-4d94-855b-2a9eb0e6a714.svg" alt="Luís Marques | Website" height="32px"/>
-  </a>
-</p>
 
 
 <!--
@@ -42,6 +62,8 @@ I'm a software developer specializing in building and designing exceptional digi
 Tech / Entrepreneurship
 
 Interested in MeteorJS, Vue.js, React
+
+💼
 
 🌍 
 🤝
