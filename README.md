@@ -27,6 +27,18 @@ I'm a software developer specializing in building and designing exceptional digi
 </p>
 
 
+<h2>About</h2>
+<p>
+  Coordinated efforts in teams of individuals with complementary expertise, at fast pace and self-starter environments, from startups to a Fortune 500 company.  
+</p>
+<p>
+  Lead Software Engineer in the planning, creation and architecture of a full-featured neuroscience platform to study human behavior, from conception to being used in multiple continents.
+</p>
+<p>
+  Full Stack Software Engineer in the development of the #1 marketplace for video games in Portugal, building it from zero, implementing ideas from the community.
+</p>
+
+
 
 <h2>Languages</h2>
 <p>
@@ -65,8 +77,15 @@ I'm a software developer specializing in building and designing exceptional digi
   <img src="https://img.shields.io/badge/SAP CDC/Gygia-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
 </p>
 
-<br/><br/>
-
+<h2>Get in touch</h2>
+  
+<p>
+  <a href="https://www.luismarques.io/"><img src="https://user-images.githubusercontent.com/2077818/171491178-bc36792b-e926-436f-887e-4d69c4063f73.svg" alt="Luís Marques | Website" height="32px"/></a>
+  &ensp;&ensp;
+  <a href="https://www.linkedin.com/in/luismarques-io/"><img src="https://user-images.githubusercontent.com/2077818/171490544-b58bc690-673f-46cc-96cf-f52b74627cc3.svg" alt="Luís Marques | LinkedIn" height="32px" margin="0 10px"/></a>
+  &ensp;&ensp;
+  <a href="https://www.luismarques.io/"><img src="https://user-images.githubusercontent.com/2077818/171491433-d6af3929-92b4-4d94-855b-2a9eb0e6a714.svg" alt="Luís Marques | Website" height="32px"/></a>
+</p>
 
 
 <!--
