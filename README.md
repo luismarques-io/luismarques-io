@@ -59,6 +59,10 @@ I'm a software developer specializing in building and designing exceptional digi
 <h2>Tools</h2>
 <p>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP CDC/Gygia-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
 </p>
 
 <br/><br/>
