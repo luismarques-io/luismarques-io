@@ -29,16 +29,14 @@ I'm a software developer specializing in building and designing exceptional digi
 
 <h2>About</h2>
 <p>
-  Coordinated efforts in teams of individuals with complementary expertise, at fast pace and self-starter environments, from startups to a Fortune 500 company.  
+  <b>Coordinated efforts in teams</b> of individuals with complementary expertise, at fast pace and self-starter environments, from startups to a Fortune 500 company.  
 </p>
 <p>
-  Lead Software Engineer in the planning, creation and architecture of a full-featured neuroscience platform to study human behavior, from conception to being used in multiple continents.
+  <b>Lead Software Engineer</b> in the planning, creation and architecture of a full-featured neuroscience platform to study human behavior, from conception to being used in multiple continents.
 </p>
 <p>
-  Full Stack Software Engineer in the development of the #1 marketplace for video games in Portugal, building it from zero, implementing ideas from the community.
+  <b>Full Stack Software Engineer</b> in the development of the #1 marketplace for video games in Portugal, building it from zero, implementing ideas from the community.
 </p>
-
-
 
 <h2>Languages</h2>
 <p>
@@ -75,6 +73,31 @@ I'm a software developer specializing in building and designing exceptional digi
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SAP CDC/Gygia-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+</p>
+
+
+<h2>Publications</h2>
+<p>
+    <a href="https://www.researchgate.net/publication/354123466_Neuroorganoleptics_Organoleptic_Testing_Based_on_Psychophysiological_Sensing" target="_blank" rel="noreferrer">
+      Neuroorganoleptics: Organoleptic Testing Based on Psychophysiological Sensing
+    </a>
+</p>
+<p>
+    <a href="https://www.researchgate.net/publication/351548792_e-CoVig_A_Novel_mHealth_System_for_Remote_Monitoring_of_Symptoms_in_COVID-19" target="_blank" rel="noreferrer">
+      e-CoVig: A Novel mHealth System for Remote Monitoring of Symptoms in COVID-19
+    </a>
+</p>
+
+<h2>Awards</h2>
+<p>
+  <b>3rd place at DISRU.PT Summit CCCCB "Shark Tank" Tim Vieira</b>
+  <br/>
+  Startup Contest
+</p>
+<p>
+  <b>Passport to Entrepreneurship</b>
+  <br/>
+  Secured investment for the development of an innovative project with high growth potential
 </p>
 
 <h2>Get in touch</h2>
