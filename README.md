@@ -23,42 +23,51 @@ I'm a software developer specializing in building and designing exceptional digi
   &ensp;&ensp;
   <a href="https://www.linkedin.com/in/luismarques-io/"><img src="https://user-images.githubusercontent.com/2077818/171490544-b58bc690-673f-46cc-96cf-f52b74627cc3.svg" alt="Luís Marques | LinkedIn" height="32px" margin="0 10px"/></a>
   &ensp;&ensp;
-  <a href="https://www.luismarques.io/"><img src="https://user-images.githubusercontent.com/2077818/171491433-d6af3929-92b4-4d94-855b-2a9eb0e6a714.svg" alt="Luís Marques | Website" height="32px"/></a>
+  <a href="mailto:euluismarques@gmail.com"><img src="https://user-images.githubusercontent.com/2077818/171491433-d6af3929-92b4-4d94-855b-2a9eb0e6a714.svg" alt="Luís Marques | E-mail Address" height="32px"/></a>
 </p>
 
 
 <h2>About</h2>
 <p>
-  <b>Coordinated efforts in teams</b> of individuals with complementary expertise, at fast pace and self-starter environments, from startups to a Fortune 500 company.  
+  <b>Pioneered</b> initiatives, <b>architected</b> projects and <b>lead</b> teams at fast pace and self-starter
+  environments, from
+  startups to a <a href="https://sap.com" class="link" target="_blank" rel="noreferrer">Fortune 500 company</a> (#1
+  in Cloud Services).
 </p>
 <p>
-  <b>Lead Software Engineer</b> in the planning, creation and architecture of a full-featured neuroscience platform to study human behavior, from conception to being used in multiple continents.
+  <b>Lead Software Engineer</b> in the planning, architecture and development of a full-featured
+  <a href="https://brainanswer.pt" class="link" target="_blank" rel="noreferrer"> neuroscience
+    platform</a> to study human behavior, from conception to being used in multiple continents.
 </p>
 <p>
-  <b>Full Stack Software Engineer</b> in the development of the #1 marketplace for video games in Portugal, building it from zero, implementing ideas from the community.
+  <b>Full Stack Software Engineer</b>, leading the development of the <a href="https://gametrade.pt" class="link"
+    target="_blank" rel="noreferrer">#1 marketplace for video games in
+    Portugal</a>, building it from zero, implementing ideas from the community.
 </p>
 
-<h2>Languages</h2>
+<h2>Programming Languages</h2>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-2562BA?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/PUG-a86454?style=for-the-badge&logo=pug&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css&logoColor=white" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/Less-1d365d?style=for-the-badge&logo=less&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<h2>Frameworks</h2>
+<h2>Libraries & Frameworks</h2>
 <p>
-  <img src="https://img.shields.io/badge/Meteor-1b2448?style=for-the-badge&logo=meteor&logoColor=ff6a3e" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-D20023?style=for-the-badge&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Meteor-1b2448?style=for-the-badge&logo=meteor&logoColor=ff6a3e" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Blaze-FF840E?style=for-the-badge&logo=blaze&logoColor=white" />
@@ -66,13 +75,14 @@ I'm a software developer specializing in building and designing exceptional digi
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </p>
 
-<h2>Tools</h2>
+<h2>Tools & Platforms</h2>
 <p>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SAP CDC/Gygia-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAP Spartacus-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
 
@@ -107,7 +117,7 @@ I'm a software developer specializing in building and designing exceptional digi
   &ensp;&ensp;
   <a href="https://www.linkedin.com/in/luismarques-io/"><img src="https://user-images.githubusercontent.com/2077818/171490544-b58bc690-673f-46cc-96cf-f52b74627cc3.svg" alt="Luís Marques | LinkedIn" height="32px" margin="0 10px"/></a>
   &ensp;&ensp;
-  <a href="https://www.luismarques.io/"><img src="https://user-images.githubusercontent.com/2077818/171491433-d6af3929-92b4-4d94-855b-2a9eb0e6a714.svg" alt="Luís Marques | Website" height="32px"/></a>
+  <a href="mailto:euluismarques@gmail.com"><img src="https://user-images.githubusercontent.com/2077818/171491433-d6af3929-92b4-4d94-855b-2a9eb0e6a714.svg" alt="Luís Marques | E-mail Address" height="32px"/></a>
 </p>
 
 
