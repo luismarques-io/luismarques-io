@@ -45,46 +45,13 @@
     Portugal</a>, building it from zero, implementing ideas from the community.
 </p>
 
-<h2>Programming Languages</h2>
+<h2>Open Source</h2>
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-2562BA?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/PUG-a86454?style=for-the-badge&logo=pug&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Less-1d365d?style=for-the-badge&logo=less&logoColor=white" />
+    <a href="https://github.com/SAP/sap-customer-data-cloud-toolkit" target="_blank" rel="noreferrer">SAP Customer Data Cloud toolkit</a> - SAP Customer Data Cloud toolkit adds new functionalities and improves existing ones in the SAP Customer Data Cloud product.
 </p>
-
-<h2>Libraries & Frameworks</h2>
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-D20023?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Meteor-1b2448?style=for-the-badge&logo=meteor&logoColor=ff6a3e" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jest-15c213?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cypress-4B7B5B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SAP Spartacus-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blaze-FF840E?style=for-the-badge&logo=blaze&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+    <a href="https://github.com/SAP/sap-customer-data-cloud-accelerator" target="_blank" rel="noreferrer">SAP Customer Data Cloud accelerator</a> - The SAP Customer Data Cloud accelerator is a local development environment for SAP CDC. Enables the use of all modern tools, including modern JavaScript and real source control. Provides code separation, enabling best practices, unit tests and quality checks
 </p>
-
-<h2>Tools & Platforms</h2>
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAP CDC/Gygia-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-</p>
-
 
 <h2>Publications</h2>
 <p>
@@ -98,6 +65,7 @@
     </a>
 </p>
 
+<!--
 <h2>Awards</h2>
 <p>
   <b>3rd place at DISRU.PT Summit CCCCB "Shark Tank" Tim Vieira</b>
@@ -109,6 +77,7 @@
   <br/>
   Secured investment for the development of an innovative project with high growth potential
 </p>
+-->
 
 <h2>Get in touch</h2>
   
