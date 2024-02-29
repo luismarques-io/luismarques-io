@@ -33,7 +33,7 @@
     platform</a> to study human behavior, from conception to being used in multiple continents.
 </p>
 <p>
-  <b>Lead Software Engineer & Software Architect</b>, leading the development of the <a href="https://gametrade.pt" class="link"
+  <b>Lead Software Engineer</b>, leading the development of the <a href="https://gametrade.pt" class="link"
     target="_blank" rel="noreferrer">#1 marketplace for video games in
     Portugal</a>, building it from zero, implementing ideas from the community.
 </p>
