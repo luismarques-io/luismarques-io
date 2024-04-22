@@ -40,10 +40,10 @@
 
 <h2>Open Source</h2>
 <p>
-    <a href="https://github.com/SAP/sap-customer-data-cloud-toolkit" target="_blank" rel="noreferrer">SAP Customer Data Cloud toolkit</a> - SAP Customer Data Cloud toolkit adds new functionalities and improves existing ones in the SAP Customer Data Cloud product.
+    <a href="https://github.com/SAP/sap-customer-data-cloud-accelerator" target="_blank" rel="noreferrer">SAP Customer Data Cloud accelerator</a> - The SAP Customer Data Cloud accelerator is a local development environment for SAP CDC. Enables the use of all modern tools, including modern JavaScript and real source control. Provides code separation, enabling best practices, unit tests and quality checks
 </p>
 <p>
-    <a href="https://github.com/SAP/sap-customer-data-cloud-accelerator" target="_blank" rel="noreferrer">SAP Customer Data Cloud accelerator</a> - The SAP Customer Data Cloud accelerator is a local development environment for SAP CDC. Enables the use of all modern tools, including modern JavaScript and real source control. Provides code separation, enabling best practices, unit tests and quality checks
+    <a href="https://github.com/SAP/sap-customer-data-cloud-toolkit" target="_blank" rel="noreferrer">SAP Customer Data Cloud toolkit</a> - SAP Customer Data Cloud toolkit adds new functionalities and improves existing ones in the SAP Customer Data Cloud product.
 </p>
 
 <h2>Publications</h2>
