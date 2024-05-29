@@ -5,10 +5,6 @@
 </p>
 
 <h1 align="center">I build things for the web</h2>
-
-<p align="center">
-  I'm a software developer and architect specializing in building exceptional digital experiences.
-</> 
   
 <p align="center">
   <a href="https://www.luismarques.io/"><img src="https://user-images.githubusercontent.com/2077818/171491178-bc36792b-e926-436f-887e-4d69c4063f73.svg" alt="Luís Marques | Website" height="32px"/></a>
