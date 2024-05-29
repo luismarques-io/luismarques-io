@@ -7,7 +7,7 @@
 <h1 align="center">I build things for the web</h2>
 
 <p align="center">
-  I'm a software developer and architect specializing in building exceptional digital experiences for 10+ years.
+  I'm a software developer and architect specializing in building exceptional digital experiences.
 </> 
   
 <p align="center">
