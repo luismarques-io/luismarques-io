@@ -17,25 +17,8 @@
 <h2>About</h2>
 
 <p>
-  I'm a software developer and architect specializing in building exceptional digital experiences for 13+ years.
+  I'm a software architect and developer specializing in building exceptional digital experiences for 13+ years.
 </p>
 <p>
   With emphasis on quality and scalability, I have pioneered initiatives, architected projects, and led teams in fast-paced and self-driven environments, ranging from startups to Fortune 500 companies.
-</p>
-
-<h2>Open Source</h2>
-<p>
-    <a href="https://github.com/SAP/sap-customer-data-cloud-accelerator" target="_blank" rel="noreferrer">SAP Customer Data Cloud accelerator</a> - Quality-focused development environment for SAP CDC
-</p>
-
-<h2>Publications</h2>
-<p>
-    <a href="https://www.researchgate.net/publication/354123466_Neuroorganoleptics_Organoleptic_Testing_Based_on_Psychophysiological_Sensing" target="_blank" rel="noreferrer">
-      Neuroorganoleptics: Organoleptic Testing Based on Psychophysiological Sensing
-    </a>
-</p>
-<p>
-    <a href="https://www.researchgate.net/publication/351548792_e-CoVig_A_Novel_mHealth_System_for_Remote_Monitoring_of_Symptoms_in_COVID-19" target="_blank" rel="noreferrer">
-      e-CoVig: A Novel mHealth System for Remote Monitoring of Symptoms in COVID-19
-    </a>
 </p>
