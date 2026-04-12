@@ -17,8 +17,8 @@
 <h2>About</h2>
 
 <p>
-  I'm a software architect and developer specializing in building exceptional digital experiences for 13+ years.
+  I’m a Lead AI Architect with 15+ years of experience in software engineering and architecture, helping enterprises adopt scalable AI solutions with confidence.
 </p>
 <p>
-  With emphasis on quality and scalability, I have pioneered initiatives, architected projects, and led teams in fast-paced and self-driven environments, ranging from startups to Fortune 500 companies.
+  I have led initiatives and teams across startups and global enterprises with a consistent emphasis on quality, scalability, and business value. Recent highlights include co-creating SAP’s AI Best Practices platform (180K+ views, 1600+ companies in 9 months) and delivering AI projects and reusable architectures that accelerate enterprise adoption.
 </p>
